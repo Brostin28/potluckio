@@ -1,2 +1,0 @@
-# potluckio
-Created with CodeSandbox
